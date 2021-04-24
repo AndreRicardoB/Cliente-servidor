@@ -13,7 +13,7 @@ conn, ender = s.accept()
 
 print ('conectado em', ender)
 
-produtosDisponiveis = [arroz, feijão, batata, frango, carne]
+produtosDisponiveis = ["arroz", "feijão", "batata", "frango", "carne"]
 numeroProdutosDisponiveis = len(produtosDisponiveis)
 produtosCompra = []
 
